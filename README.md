@@ -11,5 +11,7 @@ Waste management is a big problem in our country. Most of the wastes end up in l
 
 ### This Project aims to classify the image in two classes namely "Recyable Waste" and "Organic Waste"
 
+Deployed at https://wasteclassifier.herokuapp.com/
+
 ![Annotation 2021-09-21 001907](https://user-images.githubusercontent.com/67574348/134057829-14bcd71e-1fd7-42f4-bdb6-50117b194bf6.png)
 ![Annotation 2021-09-21 001930](https://user-images.githubusercontent.com/67574348/134057840-a7d2091d-464e-4d5d-ab36-da6d57580ef7.png)
